@@ -131,6 +131,13 @@ These limitations restrict the ability to draw real-world conclusions.
 - scikit-learn
 - Jupyter Notebook / VS Code
 
+## Environment
+
+- Python 3.x
+- Jupyter Notebook (VS Code)
+
+This project was developed and tested in a local environment using VS Code.
+
 ## How to Run
 
 Install dependencies:
