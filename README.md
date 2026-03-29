@@ -63,15 +63,15 @@ These questions are explored through exploratory data analysis, focusing on iden
 
 ### Crop Yield Distribution
 
-![Yield Distribution](outputs/figures/yield_distribution.png)
+![Yield Distribution](https://raw.githubusercontent.com/kota2003/project-1-climate-crop-yield/main/images/yield_distribution.png)
 
 ### Temperature vs Crop Yield
 
-![Temperature vs Yield](outputs/figures/temp_vs_yield.png)
+![Temperature vs Yield](https://raw.githubusercontent.com/kota2003/project-1-climate-crop-yield/main/outputs/figures/temp_vs_yield.png)
 
 ### Correlation Matrix
 
-![Correlation Matrix](outputs/figures/correlation_matrix.png)
+![Correlation Matrix](https://raw.githubusercontent.com/kota2003/project-1-climate-crop-yield/main/outputs/figures/correlation_matrix.png)
 
 ## Key Findings
 
